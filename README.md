@@ -1,2 +1,2 @@
 # age-calculator
-This repository showcases my projects, skills, and learning journey as a developer. It includes web applications, data science notebooks, and innovative solutions built using technologies.
+The Age Calculator is a web-based application built using HTML, CSS, and JavaScript that calculates a user's exact age in years, months, and days based on their Date of Birth input. It uses JavaScript Date objects for precise calculations, DOM manipulation for interactive display, and ensures input validation to handle future or invalid dates. The design is colourful, clean, and user-friendly, enhancing the learning of real-time date operations and front-end form handling.
